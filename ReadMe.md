@@ -55,7 +55,7 @@ A passionate **React Native and JavaScript Developer** dedicated to building sca
 ## 💼 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwash-khanal/)  
-✉️ Email: `bishwashkhanal.dev@gmail.com`  
+✉️ Email: `bishwashkhanal99@gmail.com`  
 🌍 Portfolio site coming soon...
 
 ---
