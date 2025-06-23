@@ -62,6 +62,5 @@ A passionate **React Native and JavaScript Developer** dedicated to building sca
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-[![Visits](https://visitcount.itsvg.in/api?id=ZarbieK-9&label=Profile%20Visits&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Inspired by https://gprm.itsvg.in -->
+
