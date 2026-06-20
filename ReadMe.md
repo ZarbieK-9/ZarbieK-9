@@ -1,8 +1,8 @@
 <h1 align="center">Bishwas Khanal</h1>
 <p align="center">
-  <b>Full-Stack Engineer — Web · Backend · Mobile</b><br/>
-  <i>I design and ship products end-to-end: React/Next.js front-ends, Node.js/NestJS &amp; polyglot
-  microservices, on real production infrastructure.</i>
+  <b>Full-Stack AI Engineer — Web · Backend · DevOps</b><br/>
+  <i>I build AI products end-to-end: React/Next.js front-ends, Node.js/NestJS &amp; polyglot
+  microservices, and the Kubernetes/CI-CD infra they run on.</i>
 </p>
 
 <p align="center">
