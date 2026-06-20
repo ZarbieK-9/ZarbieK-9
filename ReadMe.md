@@ -41,10 +41,10 @@ and production deployment**.
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🤖 **[Lumi / Persona AI](https://lumi-marketing.pages.dev)** | Private, self-hosted AI assistant — web app, marketing site, RAG backend, LLM + tool-calling | Astro, React, Vite, TS, FastAPI, Postgres + pgvector, Redis |
-| 🔐 **[Pocketbridge](https://github.com/ZarbieK-9/pocketbridge-frontend)** | End-to-end-encrypted cross-device sync; server never sees plaintext (zero-knowledge relay) | Next.js, Express, WebSocket, Redis, Postgres, Ed25519/ECDH/HKDF |
-| 📋 **[Taskblaze](https://github.com/ZarbieK-9/taskblaze)** | Cross-platform task manager, offline-first | React Native, Firebase, SQLite |
-| 💸 **[BrokeNoMore](https://github.com/ZarbieK-9/brokenomore)** | Budget tracker with live analytics | React Native, Redux Toolkit, Firebase, Socket.IO |
+| 🤖 **[Persona AI](https://github.com/ZarbieK-9/persona-ai-hub)** | Private, self-hosted AI assistant — RAG, agents/tool-calling, hosted + on-device LLMs | Astro, React, Vite, TS, FastAPI, Postgres + pgvector, Redis, Ollama |
+| 🔐 **[Pocketbridge](https://github.com/ZarbieK-9/pocketbridge)** | End-to-end-encrypted cross-device sync (web + mobile); server never sees plaintext | Next.js, React Native, Express, WebSocket, Redis, Postgres, NaCl (Ed25519/ECDH/HKDF) |
+| 🌱 **[lifeOS](https://github.com/ZarbieK-9/lifeOS)** | Full-stack life-management app with an on-device AI assistant | Python, gRPC, PostgreSQL, Expo / React Native, TypeScript |
+| 🛒 **[Chalao](https://github.com/ZarbieK-9/chalao)** | Two-sided bike-leasing marketplace, shipped on Vercel | Next.js, Tailwind, TypeScript |
 
 ---
 
